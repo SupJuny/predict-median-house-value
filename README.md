@@ -25,7 +25,6 @@ The dataset, housing.csv, contains the following columns:
 9. Build another model using the selected variables.
 10. Compare the performance of the two models (with all features vs. selected features) on the testing set.
 11. Use the better-performing model to predict the median house value for a location with the following details:
-    
   • longitude: −122.25
   • latitude: 37.85
   • housing median age: 40 years
